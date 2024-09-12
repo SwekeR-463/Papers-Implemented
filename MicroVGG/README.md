@@ -3,7 +3,9 @@
 
 This repository contains my implementation of a micro VGG, a tiny version of VGG, designed for classifying images of dogs and cats from the CIFAR-10 dataset.
 
-![architecture](https://github.com/user-attachments/assets/c65565c9-e3ba-4aa2-ac2f-8febc188ad20)
+
+![Screenshot 2024-08-25 091014](https://github.com/user-attachments/assets/7f731575-b2bb-4e4e-a578-bde0290926f0)
+
 
 Actual Paper Link: [arxiv](https://arxiv.org/abs/1409.1556)
 
