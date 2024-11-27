@@ -1,6 +1,6 @@
 # Neural Probabilistic Language Model
 
-Implementation of the classical language model that was propsed back in 2003.<br>
+Implementation of the classical language model that was proposed back in 2003.<br>
 Based on the n-gram language model and as an end-to-end model it proved that a neural network trained on predicting the following word given n-gram can be useful in embedding lexical context into vectors.<br>
 
 
