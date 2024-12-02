@@ -1,6 +1,6 @@
 # Bahdanau Attention 
 
-This is the implementation of the bahdanau attention from the [paper](https://arxiv.org/abs/1409.0473).
+This is the implementation of the bahdanau attention from the [paper](https://arxiv.org/abs/1409.0473).<br>
 Also tried to make a seq2seq translator that converts english to french.
 
 
