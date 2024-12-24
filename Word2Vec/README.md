@@ -6,4 +6,4 @@ Implementation of the [Word2Vec](https://arxiv.org/abs/1301.3781) paper.
 
 
 #### To-Do
-[] - Skip-Gram
+- [ ] Skip-Gram
