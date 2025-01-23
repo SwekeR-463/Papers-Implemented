@@ -53,4 +53,4 @@ lightning_attention = LightningAttention(block_size=B)
 
 output = lightning_attention.forward(Q, K, V)
 
-print(output.shape)
+print(output.shape) # torch.Size([64, 128])
