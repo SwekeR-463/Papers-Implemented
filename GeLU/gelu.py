@@ -12,6 +12,6 @@ def gelu(x):
 # example input tensor
 x = torch.tensor([-2.0, -1.0, 0.0, 1.0, 2.0])
 
-# apply custom GELU
-output_custom = gelu(x)
-print("GELU:", output_custom)
+# apply GELU
+output = gelu(x)
+print("GELU:", output)
